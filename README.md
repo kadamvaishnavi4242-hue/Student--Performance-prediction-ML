@@ -46,7 +46,7 @@ Terminal output showing evaluation metrics is included in the repository.
 - student success predictor.csv  
   Original dataset used for model training and testing.
 
-  Machine Learning.py  
+-  Machine Learning.py  
   Python script containing the machine learning model and evaluation logic.
 
 - output_results.txt  
@@ -74,6 +74,3 @@ and evaluate models using both numerical metrics and visual analysis.
 
 
 
-## 🎯 Conclusion
-This project demonstrates how machine learning can be applied to predict student performance
-and evaluate models using both numerical metrics and visual analysis.
